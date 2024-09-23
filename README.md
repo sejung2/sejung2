@@ -1,4 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome&fontSize=20" />
+
 ## Hi there 👋
+
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer/>
 
 <!--
 **sejung2/sejung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
