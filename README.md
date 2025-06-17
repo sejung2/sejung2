@@ -20,7 +20,9 @@
 </div>
 
 # ⌗Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seing&layout=compact&exclude_repo=java-onboarding-practice,javabaseball-6,java-racingcar-6,java-lotto-6,java-christmas-6-sejung2&langs_count=8)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seing&exclude_repo=java-onboarding-practice,javabaseball-6,java-racingcar-6,java-lotto-6,java-christmas-6-sejung2&langs_count=8&layout=compact"/>
+</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
