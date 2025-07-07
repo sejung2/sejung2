@@ -23,22 +23,11 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seing&exclude_repo=java-onboarding-practice,javabaseball-6,java-racingcar-6,java-lotto-6,java-christmas-6-sejung2&langs_count=8&layout=compact"/>
 </div>
-
+<br>
+<div align="center">🚀Dev-Log🚀</div>
+<div>
+  <a align="center" href="https://twindrop.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff5949?style=flat&logo=Tistory&logoColor=white" /></a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
-
-<!--
-**sejung2/sejung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
