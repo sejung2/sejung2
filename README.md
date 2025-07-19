@@ -21,7 +21,7 @@
 
 # ⌗Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seing&exclude_repo=java-onboarding-practice,javabaseball-6,java-racingcar-6,java-lotto-6,java-christmas-6-sejung2&langs_count=8&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejung2&exclude_repo=java-onboarding-practice,javabaseball-6,java-racingcar-6,java-lotto-6,java-christmas-6-sejung2&langs_count=8&layout=compact"/>
 </div>
 <br>
 <div align="center">🚀Dev-Log🚀</div>
